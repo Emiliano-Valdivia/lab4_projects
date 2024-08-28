@@ -30,4 +30,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Actualización de North Side 27/08/2024
 - Creación de changelog 27/08/2024
 - Añadida plantilla para PR
+- Actualizado South Side 27/08/2024
 - Modificado Prefab de North Side 27/08/2024
